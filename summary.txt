@@ -9,3 +9,6 @@ Features:
 Users can input information such as age, blood pressure, and cholesterol levels to receive a risk assessment.
 Expose this as a Spring Boot API that returns a health risk score or classification.
 Include warnings or suggestions based on high-risk predictions
+
+//chatgpt link.
+https://chatgpt.com/share/671e912a-6190-8008-b080-cf4e273ba8aa
