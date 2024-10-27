@@ -1,0 +1,11 @@
+7. Health Risk Assessment API
+Description: Predict health risks like diabetes or heart disease based on personal health data. This is a classification task and provides experience with healthcare analytics.
+
+Dataset: Diabetes Dataset or Heart Disease Dataset.
+
+ML Model: Logistic regression, SVM, or K-nearest neighbors.
+
+Features:
+Users can input information such as age, blood pressure, and cholesterol levels to receive a risk assessment.
+Expose this as a Spring Boot API that returns a health risk score or classification.
+Include warnings or suggestions based on high-risk predictions
