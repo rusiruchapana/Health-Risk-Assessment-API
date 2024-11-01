@@ -1,0 +1,6 @@
+@Backend_risk_prediction_HostAddress = http://localhost:5193
+
+GET {{Backend_risk_prediction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
